@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  gerador-logs:
+    build:
+      context: .
+    ports:
+      - "8082:8082" 
+    volumes:
+      - "./logs/gerador-log:/logs"

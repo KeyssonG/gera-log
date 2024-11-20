@@ -1,0 +1,93 @@
+2024-11-20 15:02:48,663 INFO _internal MainThread [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://172.25.0.2:8082
+2024-11-20 15:02:48,663 INFO _internal MainThread [33mPress CTRL+C to quit[0m
+2024-11-20 15:02:48,664 INFO _internal MainThread  * Restarting with stat
+2024-11-20 15:02:48,907 WARNING _internal MainThread  * Debugger is active!
+2024-11-20 15:02:48,908 INFO _internal MainThread  * Debugger PIN: 102-774-611
+2024-11-20 15:04:05,234 INFO _internal MainThread [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://172.25.0.2:8082
+2024-11-20 15:04:05,235 INFO _internal MainThread [33mPress CTRL+C to quit[0m
+2024-11-20 15:04:05,236 INFO _internal MainThread  * Restarting with stat
+2024-11-20 15:04:05,483 WARNING _internal MainThread  * Debugger is active!
+2024-11-20 15:04:05,484 INFO _internal MainThread  * Debugger PIN: 102-774-611
+2024-11-20 15:04:10,359 INFO _internal Thread-2 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:10] "GET / HTTP/1.1" 200 -
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261498
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261740
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261805
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261858
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261908
+2024-11-20 15:04:15,261 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.261958
+2024-11-20 15:04:15,262 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.262008
+2024-11-20 15:04:15,262 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.262058
+2024-11-20 15:04:15,262 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.262107
+2024-11-20 15:04:15,262 INFO gera_log Thread-3 (process_request_thread) Batch log entry at 2024-11-20 15:04:15.262156
+2024-11-20 15:04:15,262 INFO _internal Thread-3 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:15] "[32mPOST /generate_batch HTTP/1.1[0m" 302 -
+2024-11-20 15:04:15,269 INFO _internal Thread-4 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:15] "GET / HTTP/1.1" 200 -
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884333
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884646
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884736
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884802
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884867
+2024-11-20 15:04:35,884 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884929
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.884990
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885050
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885108
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885167
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885231
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885495
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885615
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885693
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885763
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885834
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885905
+2024-11-20 15:04:35,885 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.885973
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886041
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886097
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886147
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886198
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886248
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886298
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886348
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886398
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886449
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886499
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886572
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886637
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886688
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886737
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886787
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886837
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886887
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886936
+2024-11-20 15:04:35,886 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.886986
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887035
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887084
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887134
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887183
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887232
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887281
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887331
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887379
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887428
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887722
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887896
+2024-11-20 15:04:35,887 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.887962
+2024-11-20 15:04:35,888 INFO gera_log Thread-5 (process_request_thread) Batch log entry at 2024-11-20 15:04:35.888013
+2024-11-20 15:04:35,888 INFO _internal Thread-5 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:35] "[32mPOST /generate_batch HTTP/1.1[0m" 302 -
+2024-11-20 15:04:35,895 INFO _internal Thread-6 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:35] "GET / HTTP/1.1" 200 -
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602287
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602600
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602678
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602734
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602788
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602841
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602892
+2024-11-20 15:04:44,602 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602943
+2024-11-20 15:04:44,603 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.602994
+2024-11-20 15:04:44,603 INFO gera_log Thread-7 (process_request_thread) Batch log entry at 2024-11-20 15:04:44.603046
+2024-11-20 15:04:44,603 INFO _internal Thread-7 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:44] "[32mPOST /generate_batch HTTP/1.1[0m" 302 -
+2024-11-20 15:04:44,610 INFO _internal Thread-8 (process_request_thread) 172.25.0.1 - - [20/Nov/2024 15:04:44] "GET / HTTP/1.1" 200 -
