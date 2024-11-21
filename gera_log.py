@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Configuração do arquivo de log
 log_dir = '/logs'
 os.makedirs(log_dir, exist_ok=True)
-log_file = os.path.join(log_dir, 'application.log')
+log_file = os.path.join(log_dir, 'record.log')
 
 # Configurar o logging
 logging.basicConfig(filename=log_file,
@@ -43,4 +43,4 @@ def generate_batch():
     return redirect(url_for('home'))  # Redireciona de volta para o front-end
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8082, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

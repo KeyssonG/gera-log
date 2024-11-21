@@ -12,8 +12,8 @@ COPY templates /app/templates
 # Instalar as dependências
 RUN pip install -r requirements.txt
 
-# Expor a porta 8082
-EXPOSE 8082
+# Expor a porta 5000 (como definida na aplicação Flask)
+EXPOSE 5000
 
 # Comando para rodar o servidor Flask
 CMD ["python", "gera_log.py"]
