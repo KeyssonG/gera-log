@@ -8,6 +8,7 @@
 <body>
     <h1>Gerador de Logs</h1>
 
+    <!-- Gerar log único -->
     <h2>Gerar log único</h2>
     <form action="/generate_log" method="POST">
         <label for="log_type">Tipo de Log:</label>
@@ -22,11 +23,28 @@
         <button type="submit">Gerar Log</button>
     </form>
 
+    <!-- Gerar lote de logs -->
     <h2>Gerar lote de logs</h2>
     <form action="/generate_batch" method="POST">
         <label for="batch_size">Tamanho do lote:</label>
         <input type="number" id="batch_size" name="batch_size" min="1" required><br><br>
         <button type="submit">Gerar Lote</button>
+    </form>
+
+    <!-- Iniciar logs contínuos -->
+    <h2>Iniciar logs contínuos</h2>
+    <form action="/start_continuous_logs" method="POST">
+        <button type="submit" style="background-color: green; color: white; padding: 10px; border: none; border-radius: 5px;">
+            Iniciar Logs Contínuos
+        </button>
+    </form>
+
+    <!-- Parar logs contínuos -->
+    <h2>Parar logs contínuos</h2>
+    <form action="/stop_continuous_logs" method="POST">
+        <button type="submit" style="background-color: red; color: white; padding: 10px; border: none; border-radius: 5px;">
+            Parar Logs Contínuos
+        </button>
     </form>
 </body>
 </html>
